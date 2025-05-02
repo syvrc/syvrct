@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: syvrct
+description: "syvrct is a theme developed by syvrc as a hackclub ysws project!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
