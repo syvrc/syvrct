@@ -1,5 +1,5 @@
 title: syvrct
-description: "syvrct is a theme developed by syvrc as a hackclub ysws project!"
+description: "syvrct is a jekyll theme developed by syvrc as a hackclub ysws project!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
